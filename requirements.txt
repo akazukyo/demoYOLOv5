@@ -1,0 +1,9 @@
+Flask
+requests
+Pillow
+pytesseract
+opencv-python
+torch
+google-generativeai
+markdown2
+python-dotenv
