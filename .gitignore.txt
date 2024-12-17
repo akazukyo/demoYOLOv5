@@ -1,0 +1,3 @@
+static/uploads/
+.env
+__pycache__/
